@@ -1,0 +1,23 @@
+.block_container {
+    margin-top: 50px;
+}
+
+#block {
+    width: 150px;
+    height: 150px;
+    background: #81e8ff;
+}
+
+#block_button {
+    width: 150px;
+    height: 50px;
+}
+
+#counter {
+    font-size: 100px;
+}
+
+#fetch_button {
+    width: 150px;
+    height: 50px;
+}
